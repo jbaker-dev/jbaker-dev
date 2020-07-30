@@ -2,8 +2,7 @@
 
 I'm JB. I code and stuff.
 
-## I like
-
+I like
 * Ruby
 * C#
 * Perl
